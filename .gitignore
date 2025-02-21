@@ -1,2 +1,5 @@
 fastapi/hola_mundo/.idea/hola_mundo.iml
 *.xml
+/fastapi/simple_crud/__pycache__
+fastapi/simple_crud/.idea/simple_crud.iml
+fastapi/hola_mundo/__pycache__/main.cpython-311.pyc
